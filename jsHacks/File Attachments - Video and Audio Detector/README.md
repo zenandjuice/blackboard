@@ -1,8 +1,8 @@
 # About Video and Audio Detector
 
-This jsHack will monitor file attachments or file embeds which contain one of a list of file extensions.  If a media file is ddetected, a lightbox will display prompting the user to use the "proper" method for embedding videos.
+This jsHack will monitor file attachments or file embeds which contain one of a list of file extensions.  If a media file is detected, a lightbox will display prompting the user to use the "proper" method for embedding videos.
 
-This works in numerous places, including announcements, content, forums, blogs, journals, and assessments.  It will let instructor attachments to an assignment through, but will generate an email if it is enabled.  Users can still upload directly into the content collection.  We have not had issues with attachments/embeds in Grade Center feedback, so this does not address this spot.
+This works in numerous places, including announcements, content, forums, blogs, journals, and assessments.  It will let instructor add attachments to an assignment through, but will generate an email if it is enabled.  Users can still upload directly into the content collection.  We have not had issues with attachments/embeds in Grade Center feedback, so this does not address this spot.
 
 # Contents
 
