@@ -4,7 +4,7 @@ Cross-linked content are files in one course home directory that are being used 
 If the course with the shared file is deleted and the orphaned content folder is also deleted, then the links in the other courses will be broken and content lost.
 
 ## Getting a Broad Overview
-In identifying cross-linked content, I begin with the query in "file locations - general.txt".  This query will identify the home directory being used for attachment and embeds in each of tjhe following object types:
+In identifying cross-linked content, I begin with the query in "file locations - general.txt".  This query will identify the home directory being used for attachment and embeds in each of the following object types:
 - content attachments
 - content embeds
 - announcement embeds
